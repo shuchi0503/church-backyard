@@ -32,3 +32,10 @@ h2{
     font-style: normal;
     font-size: 1rem;
 }
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
