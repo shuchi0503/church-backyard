@@ -1,0 +1,34 @@
+body{
+    background-color:#e9edc9 ;
+    font-size: 1rem;
+    max-width: 600px; /* Set a reasonable max width */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px; /* Add some padding on the sides */
+}
+
+figcaption{
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1rem;
+}
+
+h1{
+    font-family: "Brawler", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h2{
+    font-family: "Brawler", serif;
+    font-style: normal;
+    font-size: 1rem;
+    font-weight: 700;
+
+}
+.paragraph-body{
+    font-family: "Brawler", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1rem;
+}
